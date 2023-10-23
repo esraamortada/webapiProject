@@ -1,0 +1,340 @@
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.Development.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.staticwebassets.runtime.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.exe
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.deps.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.runtimeconfig.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.pdb
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Core.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Identity.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Humanizer.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.CodeDom.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.Memory.Data.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.AssemblyReference.cache
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.GeneratedMSBuildEditorConfig.editorconfig
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfoInputs.cache
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfo.cs
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CoreCompileInputs.cache
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cs
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cache
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.Anadolu.Microsoft.AspNetCore.StaticWebAssets.props
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.build.Anadolu.props
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Anadolu.props
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Anadolu.props
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.pack.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.build.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.development.json
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\scopedcss\bundle\Anadolu.styles.css
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CopyComplete
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\refint\Anadolu.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.pdb
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.genruntimeconfig.cache
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\obj\Debug\net7.0\ref\Anadolu.dll
+F:\_AllProjects\Graduation Project\v1\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.AssemblyReference.cache
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.GeneratedMSBuildEditorConfig.editorconfig
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfoInputs.cache
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfo.cs
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CoreCompileInputs.cache
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cs
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cache
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\refint\Anadolu.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.pdb
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.Development.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.staticwebassets.runtime.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.exe
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.deps.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.runtimeconfig.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.pdb
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Core.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Identity.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Humanizer.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.CodeDom.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.Memory.Data.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.Anadolu.Microsoft.AspNetCore.StaticWebAssets.props
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.build.Anadolu.props
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Anadolu.props
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Anadolu.props
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.pack.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.build.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.development.json
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\scopedcss\bundle\Anadolu.styles.css
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CopyComplete
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.genruntimeconfig.cache
+E:\final graduation project\Anadulo-Graduation-Project\Anadolu\Anadolu\obj\Debug\net7.0\ref\Anadolu.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.Development.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.staticwebassets.runtime.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.exe
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.deps.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.runtimeconfig.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.pdb
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Core.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Identity.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Humanizer.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.CodeDom.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.Memory.Data.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.AssemblyReference.cache
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.GeneratedMSBuildEditorConfig.editorconfig
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfoInputs.cache
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfo.cs
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CoreCompileInputs.cache
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cs
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cache
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.Anadolu.Microsoft.AspNetCore.StaticWebAssets.props
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.build.Anadolu.props
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Anadolu.props
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Anadolu.props
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.pack.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.build.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.development.json
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\scopedcss\bundle\Anadolu.styles.css
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CopyComplete
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\refint\Anadolu.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.pdb
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.genruntimeconfig.cache
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\obj\Debug\net7.0\ref\Anadolu.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\Stripe.net.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\_Graduation-Project\Graduation Project\_Flash\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.Development.json
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\appsettings.json
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.staticwebassets.runtime.json
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.exe
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.deps.json
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.runtimeconfig.json
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Anadolu.pdb
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Core.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Azure.Identity.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Humanizer.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Stripe.net.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.CodeDom.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.Memory.Data.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.AssemblyReference.cache
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.GeneratedMSBuildEditorConfig.editorconfig
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfoInputs.cache
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.AssemblyInfo.cs
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CoreCompileInputs.cache
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cs
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.MvcApplicationPartsAssemblyInfo.cache
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.Anadolu.Microsoft.AspNetCore.StaticWebAssets.props
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.build.Anadolu.props
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Anadolu.props
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Anadolu.props
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.pack.json
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.build.json
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\staticwebassets.development.json
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\scopedcss\bundle\Anadolu.styles.css
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.csproj.CopyComplete
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\refint\Anadolu.dll
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.pdb
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\Anadolu.genruntimeconfig.cache
+F:\final anaduola graduation project\Anadolu\Anadolu\obj\Debug\net7.0\ref\Anadolu.dll

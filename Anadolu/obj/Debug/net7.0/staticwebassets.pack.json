@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\10.png",
+      "PackagePath": "staticwebassets\\images\\10.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\6.png",
+      "PackagePath": "staticwebassets\\images\\6.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\7.png",
+      "PackagePath": "staticwebassets\\images\\7.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\8.png",
+      "PackagePath": "staticwebassets\\images\\8.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\9.png",
+      "PackagePath": "staticwebassets\\images\\9.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\King.jpg",
+      "PackagePath": "staticwebassets\\images\\King.jpg"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\MyLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\MyLogo.jpg"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\Screenshot 2023-03-12 180632.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-03-12 180632.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\Screenshot 2023-04-17 050443.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-04-17 050443.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\Screenshot 2023-04-27 001629.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-04-27 001629.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\Screenshot 2023-04-27 101401.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-04-27 101401.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\_Done.png",
+      "PackagePath": "staticwebassets\\images\\_Done.png"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\ph2.jpg",
+      "PackagePath": "staticwebassets\\images\\ph2.jpg"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\ph3.jpg",
+      "PackagePath": "staticwebassets\\images\\ph3.jpg"
+    },
+    {
+      "Id": "F:\\final anaduola graduation project\\Anadolu\\Anadolu\\wwwroot\\images\\ph4.jpg",
+      "PackagePath": "staticwebassets\\images\\ph4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Anadolu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Anadolu.props",
+      "PackagePath": "build\\Anadolu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Anadolu.props",
+      "PackagePath": "buildMultiTargeting\\Anadolu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Anadolu.props",
+      "PackagePath": "buildTransitive\\Anadolu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
